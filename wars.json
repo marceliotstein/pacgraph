@@ -1,0 +1,22 @@
+{
+  "wars": {
+    "name": "World War One",
+    "shortname": "WW1",
+    "begin": "1914",
+    "end": "1918",
+  },
+  {
+    "name": "World War Two",
+    "shortname": "WW2",
+    "begin": "1939",
+    "end": "1945",
+  },
+  {
+    "name": "Vietnam War",
+    "shortname": "VN",
+    "begin": "1965",
+    "end": "1975",
+  }
+}
+
+}
