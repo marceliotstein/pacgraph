@@ -1,0 +1,11 @@
+{
+  "nations": [{
+      "name": "France"
+    },
+    {
+      "name": "Russia"
+    },
+    {
+      "name": "Germany"
+    }]
+}
